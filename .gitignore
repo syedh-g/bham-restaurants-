@@ -1,0 +1,11 @@
+# Ignore virtual environments
+venv/
+
+# Ignore environment files
+*.env
+
+# Ignore data produced 
+*.db
+restaurants_map.html
+restaurants_map_centre.html 
+
