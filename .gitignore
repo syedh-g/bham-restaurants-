@@ -9,3 +9,6 @@ venv/
 restaurants_map.html
 restaurants_map_centre.html 
 
+# IDEs
+.vscode/
+.idea/
